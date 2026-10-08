@@ -1,0 +1,78 @@
+
+{
+  "user_1": {
+    "id": 1,
+    "firstName": "Liam",
+    "lastName": "Carter",
+    "email": "liam.carter@example.com",
+    "age": 28,
+    "role": "Frontend Developer",
+    "isActive": true,
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "createdAt": "2024-01-15T09:24:00Z"
+  },
+  "user_2": {
+    "id": 2,
+    "firstName": "Amina",
+    "lastName": "Tariq",
+    "email": "amina.tariq@example.com",
+    "age": 24,
+    "role": "UI/UX Designer",
+    "isActive": true,
+    "address": {
+      "city": "Lahore",
+      "state": "Punjab",
+      "country": "Pakistan"
+    },
+    "createdAt": "2024-02-03T14:10:30Z"
+  },
+  "user_3": {
+    "id": 3,
+    "firstName": "Marcus",
+    "lastName": "Vance",
+    "email": "marcus.vance@example.com",
+    "age": 35,
+    "role": "Project Manager",
+    "isActive": false,
+    "address": {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada"
+    },
+    "createdAt": "2023-11-20T18:45:12Z"
+  },
+  "user_4": {
+    "id": 4,
+    "firstName": "Elena",
+    "lastName": "Rostova",
+    "email": "elena.rostova@example.com",
+    "age": 31,
+    "role": "Backend Engineer",
+    "isActive": true,
+    "address": {
+      "city": "Berlin",
+      "state": "BE",
+      "country": "Germany"
+    },
+    "createdAt": "2024-03-12T11:05:45Z"
+  },
+  "user_5": {
+    "id": 5,
+    "firstName": "Devon",
+    "lastName": "Miles",
+    "email": "devon.miles@example.com",
+    "age": 22,
+    "role": "QA Analyst",
+    "isActive": true,
+    "address": {
+      "city": "Manchester",
+      "state": "ENG",
+      "country": "UK"
+    },
+    "createdAt": "2024-04-01T08:30:00Z"
+  }
+}
